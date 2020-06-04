@@ -6,7 +6,7 @@ const assessmentButton = document.getElementById('assessment');
 
 /**
  * 
- * @param {HTMLElement} element HTMLの要素 
+ * @param {HTMLElement} element HTMLの要素 　
  */
 function removeAllChildren(element) {
     while (element.firstChild) { // 子どもの要素がある限り削除
